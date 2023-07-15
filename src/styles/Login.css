@@ -1,0 +1,21 @@
+/* .login-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+*/
+
+/* @media (max-width: 768px) {
+    .login-img {
+        display: none;
+    }
+} */
+.login-image{
+    /* display:flex !important; */
+}
+@media (max-width: 576px) {
+    /* .login-image{
+        display:block !important;
+    } */
+}

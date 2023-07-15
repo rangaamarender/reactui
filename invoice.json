@@ -1,0 +1,94 @@
+{
+    "invoiceData": [
+        {
+            "invioceId": "87-128-1353",
+            "dueDate": "8/17/2022",
+            "paidOn": "7/5/2022",
+            "account": "Babbleset",
+            "status": true,
+            "balanceDue": "$0.90",
+            "total": "$6.82"
+        },
+        {
+            "invioceId": "85-290-5171",
+            "dueDate": "12/26/2022",
+            "paidOn": "7/26/2022",
+            "account": "Edgewire",
+            "status": false,
+            "balanceDue": "$1.51",
+            "total": "$7.59"
+        },
+        {
+            "invioceId": "86-146-5041",
+            "dueDate": "9/2/2022",
+            "paidOn": "2/25/2023",
+            "account": "Talane",
+            "status": false,
+            "balanceDue": "$9.53",
+            "total": "$3.52"
+        },
+        {
+            "invioceId": "07-055-1679",
+            "dueDate": "5/27/2022",
+            "paidOn": "4/11/2023",
+            "account": "Oloo",
+            "status": false,
+            "balanceDue": "$3.80",
+            "total": "$4.00"
+        },
+        {
+            "invioceId": "92-578-7540",
+            "dueDate": "2/12/2023",
+            "paidOn": "7/3/2022",
+            "account": "Skivee",
+            "status": true,
+            "balanceDue": "$1.93",
+            "total": "$8.95"
+        },
+        {
+            "invioceId": "08-486-0201",
+            "dueDate": "12/11/2022",
+            "paidOn": "1/8/2023",
+            "account": "Aimbu",
+            "status": true,
+            "balanceDue": "$5.52",
+            "total": "$1.26"
+        },
+        {
+            "invioceId": "27-714-2971",
+            "dueDate": "10/12/2022",
+            "paidOn": "3/27/2023",
+            "account": "Blogtags",
+            "status": true,
+            "balanceDue": "$8.56",
+            "total": "$0.35"
+        },
+        {
+            "invioceId": "06-607-1484",
+            "dueDate": "1/15/2023",
+            "paidOn": "9/13/2022",
+            "account": "Dynabox",
+            "status": false,
+            "balanceDue": "$6.64",
+            "total": "$1.27"
+        },
+        {
+            "invioceId": "70-974-5095",
+            "dueDate": "8/23/2022",
+            "paidOn": "2/8/2023",
+            "account": "Tavu",
+            "status": true,
+            "balanceDue": "$0.91",
+            "total": "$8.83"
+        },
+        {
+            "invioceId": "35-484-8277",
+            "dueDate": "10/29/2022",
+            "paidOn": "7/18/2022",
+            "account": "Quire",
+            "status": false,
+            "balanceDue": "$7.42",
+            "total": "$3.58"
+        }
+    ]
+}

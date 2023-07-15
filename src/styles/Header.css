@@ -1,0 +1,44 @@
+/* .headerNav {
+  display: inline-block;
+  margin-left: 1000px;
+} */
+
+.headerIcons {
+  font-size: 16px;
+  line-height: 24px;
+  color: #6e6969;
+  margin: 5px;
+}
+
+.listcontainer {
+  text-align: center;
+}
+
+ul,
+li {
+  list-style-type: none;
+  padding: 5px;
+}
+
+.DropDownProfile {
+  position: absolute;
+  top: 4rem;
+  right: 0.2rem;
+  width: 180px;
+
+  padding-left: 0%;
+  border-radius: 8px;
+  background-color: white;
+  border: 1px solid grey;
+  font-size: 0.9rem;
+}
+
+.DropDownProfile::before {
+  content: "";
+  position: absolute;
+  top: -0.7rem;
+  right: 1.1rem;
+  background-color: white;
+  border-left: 1px solid grey;
+  border-top: 1px solid grey;
+}
